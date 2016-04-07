@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/net/core/main/commands/changeServerCommand.java=UTF-8
+encoding//src/main/java/net/core/main/commands/rankCommand.java=UTF-8
+encoding//src/main/java/net/core/main/handlers/playerNameHandler.java=UTF-8
+encoding//src/main/java/net/core/main/handlers/scoreBoardHandler.java=UTF-8
+encoding//src/main/java/net/core/main/playerJoin.java=UTF-8
+encoding//src/main/java/net/core/main/ranks/rankChatHandler.java=UTF-8
+encoding//src/main/java/net/core/main/ranks/setTabListName.java=UTF-8
